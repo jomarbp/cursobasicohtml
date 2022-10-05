@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<title>WEB PRINCIPAL - LCC</title>
+	<style type="text/css">
+		h1{
+			color:  #9C2727;
+		}
+		h2{
+			color:  #8A57A7FF;
+		}
+		h3{
+			color:  #1549E9FF;
+		}
+		h4{
+			color:  #EEC210FF;
+		}
+		h5{
+			color:  #FF0011FF;
+		}
+		h6{
+			color:  #FF006EFF;
+		}
+		#centrado{
+			text-align: center;
+			color:  red;
+			font-size: 30px;
+			font-family: sans-serif;
+		}
+
+		a{
+			font-size: 30px;-
+			color: #00FF21FF;
+		}
+
+		.texto{
+
+			color: #915F9FFF;
+			font-size: 80px;
+			text-align: center;
+		}
+
+	</style>
+</head>
+<body>
+	<h1>h1 - TÍTULO 1 [ #9C2727 ]</h1>
+	<h2>h2 - TÍTULO 2 [ #8A57A7FF ]</h2>
+	<h3>h3 - TÍTULO 3 [#1549E9FF ]</h3>
+	<h4>h4 - TÍTULO 4 [#EEC210FF ]</h4>
+	<h5>h5 - TÍTULO 5 [#FF0011FF ]</h5>
+	<h6>h6 -TÍTULO 6 [#FF006EFF] </h6>
+
+	<p class="texto">TEXTO DE PÁRRAFO</p>
+
+	<h1 id="centrado">( h1 con id )ESTE ES UN TEXTO CENTRADO </h1>
+
+	<!-- hipervinculo -->
+
+	<a href="https://web.whatsapp.com/">ABRIR WHATSAPP WEB</a>
+
+</body>
+</html>
